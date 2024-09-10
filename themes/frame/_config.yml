@@ -26,15 +26,15 @@ scripts:
 - /js/menu.js
 
 # favicon
-favicon: /favicon.ico
+favicon: /icon.png
 
 date_format: MMM D, YYYY
 
 # profile
 profile:
-  title: Hi, this Richard (Ruichen) Liu
+  title: Hi, this is Richard (Ruichen) Liu
   body: Welcome to my website!
-  # image: /profile_cover.png
+  image: /cover.png
 
   links:
     Home: /
@@ -43,8 +43,8 @@ profile:
 # footer
 footer:
   copyright_info:
-    enable: false
-    author:
+    enable: true
+    author: Richard Liu
 
   powered_by: # Powered by Hexo & Frame
     enable: true
