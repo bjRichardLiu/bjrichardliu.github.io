@@ -7,4 +7,4 @@ date: 2024-09-09 17:04:10
 A dummy assignment to test the website. [Github Link](https://github.com/bjRichardLiu/ruicliu-assignment-0)
 
 # Assignment 1
-[Github Link](https://github.com/bjRichardLiu/ruicliu-assignment-1)
+An assignment to determine the optimal position to wait for CDS elevator. [Github Link](https://github.com/bjRichardLiu/ruicliu-assignment-1)
