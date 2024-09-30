@@ -11,3 +11,7 @@ An assignment to determine the optimal position to wait for CDS elevator. [Githu
 
 # Assignment 2
 A dynamic website to show different ways of K-Means clustering. [Github Link](https://github.com/bjRichardLiu/ruicliu-assignment-2)
+
+## Video Demo
+[CS 506 hw2 KMeans Website](https://youtu.be/m6wfqqWK2dE)
+
