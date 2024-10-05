@@ -15,3 +15,6 @@ A dynamic website to show different ways of K-Means clustering. [Github Link](ht
 ## Video Demo
 [CS 506 hw2 KMeans Website](https://youtu.be/m6wfqqWK2dE)
 
+# Assignment 3
+SVD Preprocessing on MNIST with Logistic Regression. [Github Link](https://github.com/bjRichardLiu/ruicliu-assignment-3)
+
