@@ -18,3 +18,9 @@ A dynamic website to show different ways of K-Means clustering. [Github Link](ht
 # Assignment 3
 SVD Preprocessing on MNIST with Logistic Regression. [Github Link](https://github.com/bjRichardLiu/ruicliu-assignment-3)
 
+# Assignment 4
+Latent Semantic Analysis Search Engine on 20 Newsgroups. [Github Link](https://github.com/bjRichardLiu/ruicliu-assignment-4)
+
+## Video Demo
+[CS 506 hw4 LSA Search Engine](https://youtu.be/A4HiMKIjRXo)
+
