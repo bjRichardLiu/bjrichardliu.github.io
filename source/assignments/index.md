@@ -24,3 +24,6 @@ Latent Semantic Analysis Search Engine on 20 Newsgroups. [Github Link](https://g
 ## Video Demo
 [CS 506 hw4 LSA Search Engine](https://youtu.be/A4HiMKIjRXo)
 
+# Assignment 5
+[CS 506 hw5 KNN Classifier](https://github.com/bjRichardLiu/ruicliu-assignment-5)
+
