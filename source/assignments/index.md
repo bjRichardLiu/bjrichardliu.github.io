@@ -27,3 +27,6 @@ Latent Semantic Analysis Search Engine on 20 Newsgroups. [Github Link](https://g
 # Assignment 5
 [CS 506 hw5 KNN Classifier](https://github.com/bjRichardLiu/ruicliu-assignment-5)
 
+# Midterm Project
+[CS 506 Midterm Project](https://github.com/bjRichardLiu/ruicliu-CS506_midterm)
+
