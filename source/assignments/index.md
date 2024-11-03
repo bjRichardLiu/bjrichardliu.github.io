@@ -30,3 +30,9 @@ Latent Semantic Analysis Search Engine on 20 Newsgroups. [Github Link](https://g
 # Midterm Project
 [CS 506 Midterm Project](https://github.com/bjRichardLiu/ruicliu-CS506_midterm)
 
+# Assignment 6
+Linear Regression on random data. [Github Link](https://github.com/bjRichardLiu/ruicliu-assignment-6)
+
+## Video Demo
+[CS 506 hw6 Linear Regression](https://youtu.be/mIOJkJ3OoFg)
+
