@@ -34,5 +34,5 @@ Latent Semantic Analysis Search Engine on 20 Newsgroups. [Github Link](https://g
 Linear Regression on random data. [Github Link](https://github.com/bjRichardLiu/ruicliu-assignment-6)
 
 ## Video Demo
-[CS 506 hw6 Linear Regression](https://youtu.be/mIOJkJ3OoFg)
+[CS 506 hw6 Linear Regression](https://youtu.be/d8m8BfOOSKg)
 
