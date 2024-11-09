@@ -36,3 +36,10 @@ Linear Regression on random data. [Github Link](https://github.com/bjRichardLiu/
 ## Video Demo
 [CS 506 hw6 Linear Regression](https://youtu.be/d8m8BfOOSKg)
 
+
+# Assignment 7
+Hypothesis Testing and Confidence Intervals. [Github Link](https://github.com/bjRichardLiu/ruicliu-assignment-7)
+
+## Video Demo
+[CS 506 hw7 Hypothesis Testing and Confidence Intervals](https://youtu.be/ThH-XSbNNEU)
+
