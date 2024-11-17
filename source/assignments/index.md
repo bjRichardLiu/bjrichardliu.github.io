@@ -43,3 +43,9 @@ Hypothesis Testing and Confidence Intervals. [Github Link](https://github.com/bj
 ## Video Demo
 [CS 506 hw7 Hypothesis Testing and Confidence Intervals](https://youtu.be/ThH-XSbNNEU)
 
+# Assignment 8
+Logistic Regression. [Github Link](https://github.com/bjRichardLiu/ruicliu-assignment-8)
+
+## Video Demo
+[CS 506 hw8 Logistic Regression](https://youtu.be/SIAcq7OqofM)
+
