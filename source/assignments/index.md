@@ -49,3 +49,9 @@ Logistic Regression. [Github Link](https://github.com/bjRichardLiu/ruicliu-assig
 ## Video Demo
 [CS 506 hw8 Logistic Regression](https://youtu.be/SIAcq7OqofM)
 
+# Assignment 10
+Image Retrieval. [Github Link](https://github.com/bjRichardLiu/ruicliu-assignment-10)
+
+## Video Demo
+[CS 506 hw10 Image Retrieval](https://youtu.be/2UnNPLd94gI)
+
