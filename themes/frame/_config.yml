@@ -11,7 +11,7 @@ logo_image:
 
 menu:
   Archives: /archives/
-  Projects: /projects/
+  Projects: /categories/projects/
   Experience: /work-experience/
   Positions: /categories/positions/
   # Gallery: /categories/gallery/
@@ -39,7 +39,7 @@ profile:
 
   links:
     Home: /
-    Archives: /archives/
+    Projects: /categories/projects/
     Positions: /categories/positions/
 
 # footer
