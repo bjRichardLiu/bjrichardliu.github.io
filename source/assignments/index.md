@@ -55,3 +55,6 @@ Image Retrieval. [Github Link](https://github.com/bjRichardLiu/ruicliu-assignmen
 ## Video Demo
 [CS 506 hw10 Image Retrieval](https://youtu.be/2UnNPLd94gI)
 
+# Extra Credit
+[CS 506 Extra Credit](https://github.com/bjRichardLiu/CS506-extra-credit)
+
