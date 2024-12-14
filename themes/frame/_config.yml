@@ -16,7 +16,7 @@ menu:
   Positions: /categories/positions/
   # Gallery: /categories/gallery/
   Contact: /contact/
-  Assignments: /assignments/
+  # Assignments: /assignments/
 
 # stylesheets loaded in the <head>
 stylesheets:
