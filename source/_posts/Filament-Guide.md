@@ -5,7 +5,7 @@ categories:
 - guides
 tags: 
 - 3D Printing
-- guides
+- Guides
 ---
 # Introduction
 This guide is intended to provide a beginner's guide about common 3D printing filaments. It will cover the most common types of filaments, their properties, and their use cases, as well as some tips for printing with them. A lot of the information and tips comes from my colleagues at [Bambu Lab](https://www.bambulab.com/), where I worked as a Graphics Algorithms Engineer Intern in the summer of 2024. I hope you find this guide helpful!

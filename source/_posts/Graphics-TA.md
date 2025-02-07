@@ -5,6 +5,7 @@ categories:
 - positions
 tags: 
 - Teaching
+- Computer Graphics
 ---
 I'm excited to announce that I will be a teaching assistant for the undergrad and grad level course [CS 480/680 Intro to Computer Graphics](https://www.bu.edu/academics/cas/courses/cas-cs-480/) course at Boston University for fall 2024! I'm excited to help students learn about the fundamentals of computer graphics and to support them.
 
