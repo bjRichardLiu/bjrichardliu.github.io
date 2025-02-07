@@ -3,6 +3,7 @@ title: A Beginner's Guide to 3D Printing Filament
 date: 2025-02-05 18:26:47
 tags: 
 - 3D Printing
+- Guides
 ---
 # Introduction
 This guide is intended to provide a beginner's guide about common 3D printing filaments. It will cover the most common types of filaments, their properties, and their use cases, as well as some tips for printing with them. A lot of the information and tips comes from my colleagues at [Bambu Lab](https://www.bambulab.com/), where I worked as a Graphics Algorithms Engineer Intern in the summer of 2024. I hope you find this guide helpful!
